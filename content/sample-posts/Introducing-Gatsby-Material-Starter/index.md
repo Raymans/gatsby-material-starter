@@ -1,5 +1,5 @@
 ---
-title: "Introducing Gatsby Material Starter"
+title: "Introducing Raymans Gatsby Material Starter"
 cover: "/logos/logo-1024.png"
 category: "gatsby"
 tags:
